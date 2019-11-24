@@ -2,6 +2,8 @@
 # Portfolio
 [Portfolio](https://dimz13.github.io/Portfolio/.)
 
+- A Preview of how the page looks on iphone5:
+![AboutMe](/iphone1.gif)
 
 ## What changed
   - Added bootstrap icons for github,linkedin and twitter
