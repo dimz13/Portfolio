@@ -1,7 +1,7 @@
+
 # Portfolio
-updated portfolio(WIP)
-# Portfolio
-[Portfolio] (https://dimz13.github.io/Portfolio/.)
+[Portfolio](https://dimz13.github.io/Portfolio/.)
+
 
 ## What changed
   - Added bootstrap icons for github,linkedin and twitter
