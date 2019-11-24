@@ -2,7 +2,8 @@
 # Portfolio
 [Portfolio](https://dimz13.github.io/Portfolio/.)
 
-- A Preview of how the page looks on iphone5:
+
+# A Preview of how the page looks on iphone5:
 ![AboutMe](/iphone1.gif)
 
 ## What changed
